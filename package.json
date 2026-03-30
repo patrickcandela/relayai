@@ -1,0 +1,29 @@
+{
+  "name": "relayai",
+  "version": "0.1.0",
+  "description": "See your Claude Code spend, detect waste, and compare with friends",
+  "license": "MIT",
+  "bin": {
+    "relay": "./bin/relay.js"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "README.md"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "claude",
+    "anthropic",
+    "ai",
+    "cost",
+    "claude-code",
+    "relay"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/patrickcandela/relayai"
+  }
+}
