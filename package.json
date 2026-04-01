@@ -4,7 +4,7 @@
   "description": "See your Claude Code spend, detect waste, and compare with friends",
   "license": "MIT",
   "bin": {
-    "relay": "./bin/relay.js"
+    "relay": "bin/relay.js"
   },
   "files": [
     "bin/",
