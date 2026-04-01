@@ -1,6 +1,6 @@
 {
   "name": "relayai",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "See your Claude Code spend, detect waste, and compare with friends",
   "license": "MIT",
   "bin": {
