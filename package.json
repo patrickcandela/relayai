@@ -1,10 +1,10 @@
 {
   "name": "relayai",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "See your Claude Code spend, detect waste, and compare with friends",
   "license": "MIT",
   "bin": {
-    "relay": "./bin/relay.js"
+    "relay": "bin/relay.js"
   },
   "files": [
     "bin/",
