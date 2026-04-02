@@ -58,6 +58,11 @@ The only data that leaves your machine is the profile you explicitly choose to s
 
 ---
 
+## Requirements
+
+- Node.js 18+
+- A free [JSONBin](https://jsonbin.io) account — on first run, you'll be prompted to paste your Master Key. It's saved to `~/.relay/config.json` and never asked for again. To reset it, delete that file.
+
 ## Install
 
 ```bash
